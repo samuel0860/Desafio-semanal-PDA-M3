@@ -174,5 +174,5 @@ Este projeto foi desenvolvido para fins educacionais como parte do programa Prog
 
 <div align="center">
   <p>Desenvolvido com 💙 por Samuel Sales</p>
-  <p>© 2024 - Programadores do Amanhã</p>
+  <p>© 2026 - Programadores do Amanhã</p>
 </div>
